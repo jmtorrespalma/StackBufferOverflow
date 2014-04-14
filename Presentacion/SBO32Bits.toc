@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{?`Qu\'e es el buffer overflow?}{3}{0}{1}
+\beamer@sectionintoc {2}{Llevarlo a la pr\'actica}{5}{0}{2}
+\beamer@sectionintoc {3}{Para curiosos}{9}{0}{3}
